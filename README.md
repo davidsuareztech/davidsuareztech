@@ -78,7 +78,7 @@ Currently focused on:
 ## 📫 Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/jonathan-suarez-630050422/
-- Portfolio: davidsuarez.tech
+- Portfolio: [davidsuarez.tech](https://davidsuarez.tech)
 - email: jonathan@davidsuarez.dev.elnegocio.shop
 
 ---
