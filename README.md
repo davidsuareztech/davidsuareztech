@@ -30,6 +30,11 @@ Currently focused on:
 
 ### :zap: Actividad Reciente
 
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+## 🛠 Tech Stack
+
 
 ## 🛠 Tech Stack
 
