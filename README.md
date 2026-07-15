@@ -28,6 +28,9 @@ Currently focused on:
 
 ---
 
+### :zap: Actividad Reciente
+
+
 ## 🛠 Tech Stack
 
 ### Languages
