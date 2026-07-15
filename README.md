@@ -28,15 +28,17 @@ Currently focused on:
 
 ---
 
-### :zap: Actividad Reciente
+## 🐍 Contribution Snake
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/davidsuareztech/davidsuareztech/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 
 ## 🛠 Tech Stack
 
-
-## 🛠 Tech Stack
 
 ### Languages
 
